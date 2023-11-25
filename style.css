@@ -1,0 +1,23 @@
+.body_background 
+{
+    background-position: center;
+    background-size:contain;
+	background:url(Grass.jpg);
+}
+#myCanvas
+{
+    border-width:10px;
+    border-style:ridge;
+	background:url(ground.png);
+
+	background-color:rgb(139, 34, 34);
+}
+
+
+#hd3{
+	display: inline-block;
+	color: red;
+	background-color: rgb(255, 240, 240);
+	font-family: fantasy;
+}
+
